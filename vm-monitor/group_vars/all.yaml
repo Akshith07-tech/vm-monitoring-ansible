@@ -1,5 +1,5 @@
 smtp_server: "smtp.gmail.com"
 smtp_port: 587
-email_user: "akshithaarya951@gmail.com"
-email_pass: "nqeo vcvj fdgl pwyj"
-alert_recipient: "akshith762003@gmail.com"
+email_user: " " # sender email address
+email_pass: " " # generate password token from gmail (apppasswords)
+alert_recipient: " " # reciever email address 
