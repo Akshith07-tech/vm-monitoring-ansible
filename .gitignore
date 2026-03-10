@@ -1,0 +1,7 @@
+aws/
+.aws/
+.ssh/
+*.pem
+ansible-env/
+.cache/
+*.zip
