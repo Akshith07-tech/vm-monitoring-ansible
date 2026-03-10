@@ -1,7 +1,15 @@
-aws/
+# Linux user files
+.Xauthority
+.bash*
+.profile
+.viminfo
+.lesshst
+.sudo_as_admin_successful
+
+# Ansible cache
+.ansible/
+
+# AWS and SSH
 .aws/
 .ssh/
 *.pem
-ansible-env/
-.cache/
-*.zip
