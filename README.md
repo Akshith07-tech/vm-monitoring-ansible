@@ -111,6 +111,14 @@ ansible-playbook playbook.yaml
 * System uptime
 * Instance information
 
+EMAIL Result:
+
+![Email Result](.email-result.png)
+
+Terminal Output:
+
+![terminal O/P](.output.png)
+  
 ## Future Improvements
 
 * Add Prometheus monitoring
